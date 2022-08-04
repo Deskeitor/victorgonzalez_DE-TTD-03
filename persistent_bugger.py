@@ -7,7 +7,6 @@
 #999 --> 4 (because 9*9*9 = 729, 7*2*9 = 126, 1*2*6 = 12, and finally 1*2 = 2)
 #4 --> 0 (because 4 is already a one-digit number)
 
-from unicodedata import digit
 import codewars_test as test
 
 def persistence(n):
